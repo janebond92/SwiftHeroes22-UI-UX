@@ -2,7 +2,7 @@ Essential links for my talk at Swift Heroes 22
 ========
 
 ## Apple
-* [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/
+* [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 * [Design](https://developer.apple.com/design/tips/)
 
 ## Design vision
