@@ -1,5 +1,6 @@
 Essential links for my talk at Swift Heroes 22
 ========
+Me on Twitter: @jane_bondar
 
 ## Apple
 * [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
@@ -22,5 +23,3 @@ Essential links for my talk at Swift Heroes 22
 ## User-centric thinking
 * [Jobs-to-be-done framework](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)
 * [User persona](https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/)
-
-
